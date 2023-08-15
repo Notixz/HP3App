@@ -28,3 +28,29 @@ D:\- DATOS\Visual Studio Repos\HP3\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.d
 D:\- DATOS\Visual Studio Repos\HP3\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
 D:\- DATOS\Visual Studio Repos\HP3\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
 D:\- DATOS\Visual Studio Repos\HP3\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Johan S\Source\Repos\HP3App\bin\Debug\HP3.exe.config
+C:\Users\Johan S\Source\Repos\HP3App\bin\Debug\HP3.exe
+C:\Users\Johan S\Source\Repos\HP3App\bin\Debug\HP3.pdb
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.csproj.AssemblyReference.cache
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.frmLogin.resources
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.frmMain.resources
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.Properties.Resources.resources
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.csproj.GenerateResource.cache
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.exe.licenses
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.csproj.CoreCompileInputs.cache
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.csproj.CopyComplete
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.exe
+C:\Users\Johan S\Source\Repos\HP3App\obj\Debug\HP3.pdb
+C:\Users\Johan S\Source\Repos\HP3App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Johan S\source\repos\HP3App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Johan S\source\repos\HP3App\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Johan S\source\repos\HP3App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Johan S\source\repos\HP3App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Johan S\source\repos\HP3App\obj\Debug\HP3.frmCliente.resources
+C:\Users\Johan S\source\repos\HP3App\obj\Debug\HP3.frmRol.resources
+C:\Users\Johan S\source\repos\HP3App\obj\Debug\HP3.frmSeguridad.resources
+C:\Users\Johan S\source\repos\HP3App\obj\Debug\HP3.frmProducto.resources
+C:\Users\Johan S\source\repos\HP3App\obj\Debug\HP3.frmEmpleado.resources
+C:\Users\Johan S\source\repos\HP3App\obj\Debug\HP3.frmCategoria.resources
+C:\Users\Johan S\source\repos\HP3App\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Johan S\source\repos\HP3App\obj\Debug\HP3.frmFactura.resources
