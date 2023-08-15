@@ -355,6 +355,7 @@
             this.Name = "frmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.TopMost = true;
             this.loginBgPanel.ResumeLayout(false);
             this.loginBgPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.loginImgUser)).EndInit();
